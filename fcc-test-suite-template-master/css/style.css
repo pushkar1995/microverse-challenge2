@@ -111,6 +111,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-decoration: none;
     align-items: center;
     text-align: center;
     width: 100%;
