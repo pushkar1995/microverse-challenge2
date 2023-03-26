@@ -17,14 +17,26 @@
     width: 100%;
     height: 80vh;
     padding: 0 2rem;
-    background: var(--main-gray);
+    background: #303841;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #f0f0f0;
 }
 footer{
     font-weight: 300;
     display: flex;
     justify-content: space-evenly;
     padding: 2rem;
-    background: var(--main-gray);
-    border-top: 4px solid var(--main-red);
-
+    background: #303841;
+    border-top: 4px solid #be3144;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.4;
+    color: #f0f0f0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
 }
