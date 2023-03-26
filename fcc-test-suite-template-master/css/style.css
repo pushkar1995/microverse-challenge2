@@ -26,9 +26,20 @@ a:hover {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     background-color: #000000;
-    background-image: linear-gradient(70deg, #212223 0%, #342c3d 100%);
+    background-color: #212124;
+    font-family: sans-serif;
+}
+.welcome-header{
+    color: white;
+    font-size: 50px;
+}
+.welcome-subheader {
+    color: #BE3144;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 5px;
 }
 
 .projects-container {
